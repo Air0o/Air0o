@@ -41,4 +41,10 @@ Some tools I have used:
           
 </p>
 
-![Language Stats](stats/leaderboard_by_lines.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Air0o/Air0o/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Air0o/Air0o/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/Air0o/Air0o/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%" />
+</p>
