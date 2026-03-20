@@ -40,3 +40,5 @@ Some tools I have used:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
           
 </p>
+
+![Language Stats](stats/leaderboard_by_lines.png)
