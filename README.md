@@ -9,15 +9,11 @@ education:
   course: computer science
   year: 4
 known_languages:
-  fluent:
     - C
     - C++
     - Cs
     - Java
     - Python
-  rusty:
-    - Italian
-    - English
 passions:
   - programming
   - gaming
