@@ -7,18 +7,18 @@ location: Como
 education:
   school: Magistri Cumacini
   course: computer science
-  year: 4
+  year: 5
 known_languages:
     - C
     - C++
-    - Cs
+    - C#
     - Java
     - Python
 passions:
   - programming
   - gaming
   - motorsport
-current_focus: machine_learning
+current_focus: surviving the Italian exam
 ```
 
 Some tools I have used:
